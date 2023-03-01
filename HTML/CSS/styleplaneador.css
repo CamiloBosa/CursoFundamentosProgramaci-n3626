@@ -1,0 +1,18 @@
+html{
+    background-color: darkslategrey;
+  
+}
+
+
+table{
+    background-color:antiquewhite;
+    border: solid 5px rgb(7, 7, 2);
+    border-collapse: collapse;
+    color:blue
+    
+
+}
+td, th{
+    border: rgb(242, 242, 148) 1px solid ;
+    padding: 9px;
+}
